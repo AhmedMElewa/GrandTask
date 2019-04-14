@@ -25,7 +25,11 @@ import com.elewa.grandtask.databinding.InsuranceBinding;
 import com.elewa.grandtask.listener.ClickListener;
 
 import java.util.List;
-
+/**
+ * Insurance Adapter.
+ *
+ * @author Ahmed M Elewa
+ */
 public class InsuranceAdapter extends RecyclerView.Adapter<InsuranceAdapter.RecyclerViewHolder> {
 
     List<InsuranceViewModel> insuranceViewModels;

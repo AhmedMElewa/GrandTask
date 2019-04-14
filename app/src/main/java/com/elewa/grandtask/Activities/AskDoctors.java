@@ -30,6 +30,12 @@ import com.oguzdev.circularfloatingactionmenu.library.SubActionButton;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ * Ask Doctor Activity .
+ *
+ * @author Ahmed M Elewa
+ */
 public class AskDoctors extends AppCompatActivity {
 
     private TextView toolbarTitle;

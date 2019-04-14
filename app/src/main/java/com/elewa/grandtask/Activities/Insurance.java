@@ -24,7 +24,11 @@ import com.oguzdev.circularfloatingactionmenu.library.SubActionButton;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Insurance Activity.
+ *
+ * @author Ahmed M Elewa
+ */
 public class Insurance extends AppCompatActivity {
 
 

@@ -6,15 +6,23 @@ import android.util.TypedValue;
 import android.view.WindowManager;
 
 /**
- * Created by amitshekhar on 07/01/17.
+ * Get screen size
+ *
+ * @author Ahmed M Elewa
  */
 
 public class ScreenUtils {
 
+    // Constructors
+
+    //Default constructor.
     private ScreenUtils() {
-        // This utility class is not publicly instantiable
     }
 
+    // Public static methods
+    /*
+     * Returns int screen width size.
+     */
     public static int getScreenWidth(Context context) {
         WindowManager windowManager = (WindowManager) context.getSystemService(Context.WINDOW_SERVICE);
         DisplayMetrics dm = new DisplayMetrics();

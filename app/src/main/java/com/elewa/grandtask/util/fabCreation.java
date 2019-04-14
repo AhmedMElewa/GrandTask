@@ -11,11 +11,18 @@ import com.elewa.grandtask.R;
 import com.oguzdev.circularfloatingactionmenu.library.FloatingActionButton;
 import com.oguzdev.circularfloatingactionmenu.library.FloatingActionMenu;
 import com.oguzdev.circularfloatingactionmenu.library.SubActionButton;
-
+/**
+ * Fab
+ *
+ * @author Ahmed M Elewa
+ */
 public class fabCreation {
 
 
-
+    // Public methods
+    /*
+     * Create fab menu button and add its sub items.
+     */
     public static void createFab(Context context, Activity activity){
         final ImageView icon;
         icon = new ImageView(context); // Create an icon

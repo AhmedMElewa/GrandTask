@@ -6,6 +6,11 @@ import android.util.Log;
 import android.widget.ImageView;
 import com.bumptech.glide.Glide;
 
+/**
+ * Image Adapter.
+ *
+ * @author Ahmed M Elewa
+ */
 public class ImageBindingAdapter {
 
     @BindingAdapter({"bind:imgInsuranceLogo"})

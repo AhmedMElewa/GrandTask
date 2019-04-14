@@ -14,7 +14,11 @@ import com.elewa.grandtask.listener.ClickListener;
 import com.elewa.grandtask.util.ScreenUtils;
 
 import java.util.List;
-
+/**
+ * Ask Doctor Adapter.
+ *
+ * @author Ahmed M Elewa
+ */
 public class AskDoctorAdapter extends RecyclerView.Adapter<AskDoctorAdapter.RecyclerViewHolder> {
 
     List<AskDoctorViewModel> askDoctorViewModel;
