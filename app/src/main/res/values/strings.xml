@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GrandTask</string>
+    <string name="choose_doctor">Choose Doctor</string>
+    <string name="type_message">Type your message</string>
+    <string name="insurance">Insurance</string>
+    <string name="ask_doctor">Ask Doctors</string>
+    <string name="send">Send</string>
+    <string name="start">Start</string>
+    <string name="chat">CHAT</string>
+    <string name="sentMessage">Your message has been sent</string>
+</resources>

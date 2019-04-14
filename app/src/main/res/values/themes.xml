@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="switchStyle" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/gray</item>
+        <item name="colorPrimaryDark">@color/colorWhite</item>
+        <item name="colorAccent">@color/colorAccent</item>    <!-- set your color -->
+    </style>
+</resources>
